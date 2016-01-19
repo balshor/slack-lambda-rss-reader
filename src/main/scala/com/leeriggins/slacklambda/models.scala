@@ -25,5 +25,7 @@ case class WebhookResponse(
   @BeanProperty text: String,
   @BeanProperty username: String = null,
   @BeanProperty parse: String = null,
-  @BeanProperty link_names: String = null
+  @BeanProperty link_names: String = null,
+  @BeanProperty status: Int = 200,
+  @BeanProperty errorMessage: String = null
 )

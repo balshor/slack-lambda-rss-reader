@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Hacker News: Newest</title>
+    <link>https://news.ycombinator.com/newest</link>
+    <description>Hacker News RSS</description>
+    <docs>https://edavis.github.io/hnrss/</docs>
+    <generator>https://github.com/edavis/hnrss</generator>
+    <lastBuildDate>Sun, 17 Jan 2016 01:52:48 GMT</lastBuildDate>
+    <item>
+      <title>Raspberry Pi Bare Metal Programming with Rust</title>
+      <description>Comments URL: &lt;a href="https://news.ycombinator.com/item?id=10915735"&gt;https://news.ycombinator.com/item?id=10915735&lt;/a&gt;</description>
+      <pubDate>Sat, 16 Jan 2016 16:43:03 GMT</pubDate>
+      <link>https://blog.thiago.me/raspberry-pi-bare-metal-programming-with-rust/</link>
+      <author>thiagopnts</author>
+      <comments>https://news.ycombinator.com/item?id=10915735</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=10915735</guid>
+    </item>
+    <item>
+      <title>Iceland sentences bankers to prison for their part in the 2008 collapse</title>
+      <description>Comments URL: &lt;a href="https://news.ycombinator.com/item?id=10915506"&gt;https://news.ycombinator.com/item?id=10915506&lt;/a&gt;</description>
+      <pubDate>Sat, 16 Jan 2016 15:33:56 GMT</pubDate>
+      <link>http://www.loansafe.org/iceland-sentences-26-corrupt-bankers-to-74-years-in-prison</link>
+      <author>puppetmaster3</author>
+      <comments>https://news.ycombinator.com/item?id=10915506</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=10915506</guid>
+    </item>
+    <item>
+      <title>How Police Officers Seize Cash from Innocent Americans</title>
+      <description>Comments URL: &lt;a href="https://news.ycombinator.com/item?id=10912880"&gt;https://news.ycombinator.com/item?id=10912880&lt;/a&gt;</description>
+      <pubDate>Fri, 15 Jan 2016 22:52:47 GMT</pubDate>
+      <link>http://priceonomics.com/how-police-officers-seize-cash-from-innocent/</link>
+      <author>ryan_j_naughton</author>
+      <comments>https://news.ycombinator.com/item?id=10912880</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=10912880</guid>
+    </item>
+    <item>
+      <title>Etsy stock has lost 76% of its value in 9 months</title>
+      <description>Comments URL: &lt;a href="https://news.ycombinator.com/item?id=10912225"&gt;https://news.ycombinator.com/item?id=10912225&lt;/a&gt;</description>
+      <pubDate>Fri, 15 Jan 2016 21:21:53 GMT</pubDate>
+      <link>https://www.google.com/finance?q=NASDAQ%3AETSY&amp;ei=LWGZVoHMOtSSUMmBn6gL</link>
+      <author>megafounder</author>
+      <comments>https://news.ycombinator.com/item?id=10912225</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=10912225</guid>
+    </item>
+    <item>
+      <title>Before Growth</title>
+      <description>Comments URL: &lt;a href="https://news.ycombinator.com/item?id=10911066"&gt;https://news.ycombinator.com/item?id=10911066&lt;/a&gt;</description>
+      <pubDate>Fri, 15 Jan 2016 18:23:59 GMT</pubDate>
+      <link>http://blog.samaltman.com/before-growth</link>
+      <author>firloop</author>
+      <comments>https://news.ycombinator.com/item?id=10911066</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=10911066</guid>
+    </item>
+    <item>
+      <title>A 'Brief' History of Neural Nets and Deep Learning</title>
+      <description>Comments URL: &lt;a href="https://news.ycombinator.com/item?id=10910887"&gt;https://news.ycombinator.com/item?id=10910887&lt;/a&gt;</description>
+      <pubDate>Fri, 15 Jan 2016 17:58:57 GMT</pubDate>
+      <link>http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/</link>
+      <author>andreyk</author>
+      <comments>https://news.ycombinator.com/item?id=10910887</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=10910887</guid>
+    </item>
+    <item>
+      <title>An open letter of gratitude to GitHub</title>
+      <description>Comments URL: &lt;a href="https://news.ycombinator.com/item?id=10910455"&gt;https://news.ycombinator.com/item?id=10910455&lt;/a&gt;</description>
+      <pubDate>Fri, 15 Jan 2016 16:54:01 GMT</pubDate>
+      <link>https://github.com/thank-you-github/thank-you-github</link>
+      <author>arthurnn</author>
+      <comments>https://news.ycombinator.com/item?id=10910455</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=10910455</guid>
+    </item>
+    <item>
+      <title>Bitcoin Is Dead, Long Live Bitcoin</title>
+      <description>Comments URL: &lt;a href="https://news.ycombinator.com/item?id=10909886"&gt;https://news.ycombinator.com/item?id=10909886&lt;/a&gt;</description>
+      <pubDate>Fri, 15 Jan 2016 15:39:25 GMT</pubDate>
+      <link>http://avc.com/2016/01/bitcoin-is-dead-long-live-bitcoin/</link>
+      <author>gist</author>
+      <comments>https://news.ycombinator.com/item?id=10909886</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=10909886</guid>
+    </item>
+    <item>
+      <title>Wikipedia Turns 15</title>
+      <description>Comments URL: &lt;a href="https://news.ycombinator.com/item?id=10907868"&gt;https://news.ycombinator.com/item?id=10907868&lt;/a&gt;</description>
+      <pubDate>Fri, 15 Jan 2016 07:58:05 GMT</pubDate>
+      <link>https://15.wikipedia.org/</link>
+      <author>doppp</author>
+      <comments>https://news.ycombinator.com/item?id=10907868</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=10907868</guid>
+    </item>
+    <item>
+      <title>Signs of Secret Phone Surveillance Across London</title>
+      <description>Comments URL: &lt;a href="https://news.ycombinator.com/item?id=10907577"&gt;https://news.ycombinator.com/item?id=10907577&lt;/a&gt;</description>
+      <pubDate>Fri, 15 Jan 2016 06:18:40 GMT</pubDate>
+      <link>https://news.vice.com/article/vice-news-investigation-finds-signs-of-secret-phone-surveillance-across-london</link>
+      <author>walterbell</author>
+      <comments>https://news.ycombinator.com/item?id=10907577</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=10907577</guid>
+    </item>
+    <item>
+      <title>Amazon Has Just Registered to Sell Ocean Freight</title>
+      <description>Comments URL: &lt;a href="https://news.ycombinator.com/item?id=10907163"&gt;https://news.ycombinator.com/item?id=10907163&lt;/a&gt;</description>
+      <pubDate>Fri, 15 Jan 2016 04:21:08 GMT</pubDate>
+      <link>https://www.flexport.com/blog/amazon-ocean-freight-forwarder/</link>
+      <author>prostoalex</author>
+      <comments>https://news.ycombinator.com/item?id=10907163</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=10907163</guid>
+    </item>
+    <item>
+      <title>Doomsday planning for less crazy folk</title>
+      <description>Comments URL: &lt;a href="https://news.ycombinator.com/item?id=10906232"&gt;https://news.ycombinator.com/item?id=10906232&lt;/a&gt;</description>
+      <pubDate>Fri, 15 Jan 2016 00:54:23 GMT</pubDate>
+      <link>http://lcamtuf.coredump.cx/prep/</link>
+      <author>f-</author>
+      <comments>https://news.ycombinator.com/item?id=10906232</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=10906232</guid>
+    </item>
+    <item>
+      <title>You Can't Destroy the Village to Save It: W3C vs. DRM, Round Two</title>
+      <description>Comments URL: &lt;a href="https://news.ycombinator.com/item?id=10905809"&gt;https://news.ycombinator.com/item?id=10905809&lt;/a&gt;</description>
+      <pubDate>Thu, 14 Jan 2016 23:50:35 GMT</pubDate>
+      <link>https://www.eff.org/deeplinks/2016/01/you-cant-destroy-village-save-it-w3c-vs-drm-round-two</link>
+      <author>cpeterso</author>
+      <comments>https://news.ycombinator.com/item?id=10905809</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=10905809</guid>
+    </item>
+    <item>
+      <title>There are no secure smartphones</title>
+      <description>Comments URL: &lt;a href="https://news.ycombinator.com/item?id=10905643"&gt;https://news.ycombinator.com/item?id=10905643&lt;/a&gt;</description>
+      <pubDate>Thu, 14 Jan 2016 23:27:43 GMT</pubDate>
+      <link>https://www.devever.net/~hl/nosecuresmartphone</link>
+      <author>moehm</author>
+      <comments>https://news.ycombinator.com/item?id=10905643</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=10905643</guid>
+    </item>
+    <item>
+      <title>The resolution of the Bitcoin experiment</title>
+      <description>Comments URL: &lt;a href="https://news.ycombinator.com/item?id=10905118"&gt;https://news.ycombinator.com/item?id=10905118&lt;/a&gt;</description>
+      <pubDate>Thu, 14 Jan 2016 22:18:04 GMT</pubDate>
+      <link>https://medium.com/@octskyward/the-resolution-of-the-bitcoin-experiment-dabb30201f7</link>
+      <author>tptacek</author>
+      <comments>https://news.ycombinator.com/item?id=10905118</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=10905118</guid>
+    </item>
+    <item>
+      <title>A statement from f.lux about Apple's recent announcement</title>
+      <description>Comments URL: &lt;a href="https://news.ycombinator.com/item?id=10904798"&gt;https://news.ycombinator.com/item?id=10904798&lt;/a&gt;</description>
+      <pubDate>Thu, 14 Jan 2016 21:48:51 GMT</pubDate>
+      <link>https://justgetflux.com/news/2016/01/14/apple.html</link>
+      <author>mrzool</author>
+      <comments>https://news.ycombinator.com/item?id=10904798</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=10904798</guid>
+    </item>
+    <item>
+      <title>Dear GitHub</title>
+      <description>Comments URL: &lt;a href="https://news.ycombinator.com/item?id=10904671"&gt;https://news.ycombinator.com/item?id=10904671&lt;/a&gt;</description>
+      <pubDate>Thu, 14 Jan 2016 21:33:17 GMT</pubDate>
+      <link>https://github.com/dear-github/dear-github</link>
+      <author>msvan</author>
+      <comments>https://news.ycombinator.com/item?id=10904671</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=10904671</guid>
+    </item>
+    <item>
+      <title>Why Kubernetes isn't using Docker's libnetwork</title>
+      <description>Comments URL: &lt;a href="https://news.ycombinator.com/item?id=10904452"&gt;https://news.ycombinator.com/item?id=10904452&lt;/a&gt;</description>
+      <pubDate>Thu, 14 Jan 2016 21:02:18 GMT</pubDate>
+      <link>http://blog.kubernetes.io/2016/01/why-Kubernetes-doesnt-use-libnetwork.html</link>
+      <author>brendandburns</author>
+      <comments>https://news.ycombinator.com/item?id=10904452</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=10904452</guid>
+    </item>
+    <item>
+      <title>A game made with CSS/HTML only</title>
+      <description>Comments URL: &lt;a href="https://news.ycombinator.com/item?id=10903691"&gt;https://news.ycombinator.com/item?id=10903691&lt;/a&gt;</description>
+      <pubDate>Thu, 14 Jan 2016 19:21:08 GMT</pubDate>
+      <link>http://victordarras.fr/cssgame</link>
+      <author>wanda</author>
+      <comments>https://news.ycombinator.com/item?id=10903691</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=10903691</guid>
+    </item>
+    <item>
+      <title>10th Anniversary of JQuery</title>
+      <description>Comments URL: &lt;a href="https://news.ycombinator.com/item?id=10902791"&gt;https://news.ycombinator.com/item?id=10902791&lt;/a&gt;</description>
+      <pubDate>Thu, 14 Jan 2016 17:25:57 GMT</pubDate>
+      <link>http://ejohn.org/blog/10th-anniversary-of-jquery/</link>
+      <author>shawndumas</author>
+      <comments>https://news.ycombinator.com/item?id=10902791</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=10902791</guid>
+    </item>
+  </channel>
+</rss>
